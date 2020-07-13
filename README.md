@@ -1,8 +1,7 @@
 ### Hi there!
-# I am Al Xayeed,you can call me Al  🤝
-
-## I am a CSE graduate, trying my best to be better tahn yesterday
-## I don't just want to be developer,I Want to be an # Engineer!
+I am Al Xayeed,you can call me Al  🤝
+I am a CSE graduate, trying my best to be better tahn yesterday
+I don't just want to be developer,I Want to be an ***Engineer!***
 
 ## SKILLS
 
