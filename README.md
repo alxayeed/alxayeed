@@ -6,11 +6,6 @@ I don't just want to be developer,I Want to be an<h1>Engineer!</h1>
 ---
 ## Below are some my practice projects 
 
-- [Simple Note App](https://github.com/alxayeed/simple-note-app-API_Node_MongoDB_Mongoose)
-- [CSMS](https://github.com/alxayeed/CSMS)
-- [Django Blog](https://github.com/alxayeed/Django-Blog)
-- [Django Weather Forecast](https://github.com/alxayeed/django-weather)
-- [DJango Todo](https://github.com/alxayeed/todo-App)
 <!--
 **alxayeed/alxayeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
