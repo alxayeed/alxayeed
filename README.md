@@ -1,5 +1,5 @@
 ### Hi there!
-# I am Al Xayeed,you can call me Al  👋
+# I am Al Xayeed,you can call me Al  🤝
 
 <!--
 **alxayeed/alxayeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
