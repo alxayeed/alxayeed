@@ -3,22 +3,8 @@ I am Al Xayeed,you can call me Al  🤝<br>
 I am a CSE graduate, trying my best to be better tahn yesterday.<br>
 I don't just want to be developer,I Want to be an<h1>Engineer!</h1>
 
-## SKILLS
-
-- Python, Java,C++,XML
-- Django Framework
-- MYSQL, SQL, PostgreSQL
-- HTML, CSS, Bootstrap
-- Microsoft Excel 
-- Basic Knowledge of SDLC pattern
-- Version Control System(Git, GitHub)
-- Linux OS(Ubuntu)
-- Comfortable With Command Line
-
-
-
 ---
-## Backend Project
+## Below are some my practice projects 
 
 - [Simple Note App](https://github.com/alxayeed/simple-note-app-API_Node_MongoDB_Mongoose)
 - [CSMS](https://github.com/alxayeed/CSMS)
