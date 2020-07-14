@@ -1,4 +1,4 @@
-📨 <a href="mailto:alxayeed@gmail.com">Send me a mail</a><br>
+💌 <a href="mailto:alxayeed@gmail.com">Send me a mail</a><br>
 <a href="https://www.linkedin.com/in/alxayeed/">View My LinkedIn Profile</a>
 ## Hi there!
 I am Al Xayeed,you can call me Al  🤝<br>
