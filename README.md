@@ -1,3 +1,5 @@
+[mail me ] (alxayeed@gmail.com) [Find me on LinkedIn] (https://www.linkedin.com/in/alxayeed)
+
 ## Hi there!
 I am Al Xayeed,you can call me Al  🤝<br>
 I am a CSE graduate, trying my best to be better than yesterday.<br>
