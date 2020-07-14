@@ -1,6 +1,6 @@
 ## Hi there!
 I am Al Xayeed,you can call me Al  🤝<br>
-I am a CSE graduate, trying my best to be better tahn yesterday.<br>
+I am a CSE graduate, trying my best to be better than yesterday.<br>
 I don't just want to be developer,I Want to be an ***Engineer!***
 
 ## Below are some my practice projects 
