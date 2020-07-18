@@ -6,7 +6,7 @@ I am Al Xayeed,you can call me Al  🤝<br>
 I am a CSE graduate, trying my best to be better than yesterday.<br>
 I don't just want to be developer,I Want to be an ***Engineer!***
 
-## Below are some my practice projects 
+## Below are some of my practice projects 
 <!--
 **alxayeed/alxayeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
