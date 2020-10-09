@@ -2,8 +2,10 @@
 [![medium badge](https://img.shields.io/badge/Al%20Xayeed-30302f?style=flat&logo=medium)](https://medium.com/@alxayeed)
 [![twitter badge](https://img.shields.io/badge/@Al%20Xayeed-30302f?style=flat&logo=twitter)](https://twitter.com/AlXayeed0)
 
+## [![Al's header](https://github.com/alxayeed/alxayeed/blob/master/albanner.png)]()
 
-![image](https://github.com/alxayeed/alxayeed/blob/master/Hi.gif)
+
+<!--![image](https://github.com/alxayeed/alxayeed/blob/master/Hi.gif)-->
 
 
 ![Al's Github Stats](https://github-readme-stats.vercel.app/api?username=alxayeed&count_private=true&show_icons=true&theme=gradient&card_width=800)
