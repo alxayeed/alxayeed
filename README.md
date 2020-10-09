@@ -1,7 +1,9 @@
 [![linkedin badge](https://komarev.com/ghpvc/?username=alxayeed&label=Profile%20views&color=0e75b6&style=flat)]()
 [![linkedin badge](https://img.shields.io/badge/Abdullah%20Al%20Sayeed-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/alxayeed/)
 [![medium badge](https://img.shields.io/badge/Al%20Xayeed-30302f?style=flat&logo=medium)](https://medium.com/@alxayeed)
+[![hackerrank badge](https://img.shields.io/badge/@Al%20Xayeed-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/alxayeed)
 [![twitter badge](https://img.shields.io/badge/@Al%20Xayeed-30302f?style=flat&logo=twitter)](https://twitter.com/AlXayeed0)
+
 
 
 <h3 align="center"><i>"If I have seen a little further it is by standing on the shoulders of Giants"<i></h3>
