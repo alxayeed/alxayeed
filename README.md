@@ -1,6 +1,6 @@
-💌 <a href="mailto:alxayeed@gmail.com">Send me a mail</a><br>
-<a href="https://www.linkedin.com/in/alxayeed/">View My LinkedIn Profile</a>
-
+[![linkedin badge](https://img.shields.io/badge/linkedin-AlXayeed-blue)](https://www.linkedin.com/in/alxayeed/)
+[![linkedin badge](https://img.shields.io/badge/twitter-AlXayeed-brightgreen)](https://twitter.com/AlXayeed0)
+[![linkedin badge](https://img.shields.io/badge/medium-Al%20Xayeed-orange)](https://medium.com/@alxayeed)
 
 ![image](https://github.com/alxayeed/alxayeed/blob/master/Hi.gif)
 
