@@ -1,8 +1,10 @@
-[![linkedin badge](https://img.shields.io/badge/linkedin-AlXayeed-blue)](https://www.linkedin.com/in/alxayeed/)
-[![linkedin badge](https://img.shields.io/badge/twitter-AlXayeed-brightgreen)](https://twitter.com/AlXayeed0)
-[![linkedin badge](https://img.shields.io/badge/medium-Al%20Xayeed-orange)](https://medium.com/@alxayeed)
+[![linkedin badge](https://img.shields.io/badge/Abdullah%20Al%20Sayeed-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/alxayeed/)
+[![medium badge](https://img.shields.io/badge/Al%20Xayeed-30302f?style=flat&logo=medium)](https://medium.com/@alxayeed)
+[![twitter badge](https://img.shields.io/badge/@Al%20Xayeed-30302f?style=flat&logo=twitter)](https://twitter.com/AlXayeed0)
+
 
 ![image](https://github.com/alxayeed/alxayeed/blob/master/Hi.gif)
+
 
 
 I am Al Xayeed,you can call me Al  🤝<br>
