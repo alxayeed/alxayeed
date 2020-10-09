@@ -6,6 +6,11 @@
 ![image](https://github.com/alxayeed/alxayeed/blob/master/Hi.gif)
 
 
+![Al's Github Stats](https://github-readme-stats.vercel.app/api?username=alxayeed&count_private=true&show_icons=true&theme=gradient&card_width=800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxayeed&card_width=495) <br>
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@alxayeed) <br>
+
+
 
 I am Al Xayeed,you can call me Al  🤝<br>
 I am a CSE graduate, trying my best to be better than yesterday.<br>
