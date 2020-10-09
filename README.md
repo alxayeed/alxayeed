@@ -1,6 +1,9 @@
 💌 <a href="mailto:alxayeed@gmail.com">Send me a mail</a><br>
 <a href="https://www.linkedin.com/in/alxayeed/">View My LinkedIn Profile</a>
-## Hi there!
+
+
+![image](https://github.com/alxayeed/alxayeed/blob/master/Hi.gif)
+
 
 I am Al Xayeed,you can call me Al  🤝<br>
 I am a CSE graduate, trying my best to be better than yesterday.<br>
