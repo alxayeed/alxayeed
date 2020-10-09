@@ -48,7 +48,7 @@
  
 
 ![Al's Github Stats](https://github-readme-stats.vercel.app/api?username=alxayeed&count_private=true&show_icons=true&theme=radical&card_width=800)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=alxayeed&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxayeed&layout=compact)
 
 <!--
 [![linkedin badge](https://img.shields.io/badge/Abdullah%20Al%20Sayeed-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/alxayeed/)
