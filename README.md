@@ -47,12 +47,8 @@
   <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
  
 
- 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxayeed&layout=compact" alt="alxayeed" /></p>
-
 ![Al's Github Stats](https://github-readme-stats.vercel.app/api?username=alxayeed&count_private=true&show_icons=true&theme=radical&card_width=800)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxayeed&layout=compact" alt="alxayeed" /></p>
 
 <!--
 [![linkedin badge](https://img.shields.io/badge/Abdullah%20Al%20Sayeed-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/alxayeed/)
