@@ -78,6 +78,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxayeed&card_width=495) <br>
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@alxayeed) <br>
 -->
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@alxayeed)
 
 
 <!--
