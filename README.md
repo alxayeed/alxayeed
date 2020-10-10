@@ -2,11 +2,11 @@
 [![linkedin badge](https://img.shields.io/badge/Abdullah%20Al%20Sayeed-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/alxayeed/)
 [![medium badge](https://img.shields.io/badge/Al%20Xayeed-30302f?style=flat&logo=medium)](https://medium.com/@alxayeed)
 [![hackerrank badge](https://img.shields.io/badge/@Al%20Xayeed-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/alxayeed)
-[![twitter badge](https://img.shields.io/badge/@Al%20Xayeed-30302f?style=flat&logo=twitter)](https://twitter.com/AlXayeed0)
+[![twitter badge](https://img.shields.io/badge/Al%20Xayeed-30302f?style=flat&logo=twitter)](https://twitter.com/AlXayeed0)
 
 
 
-<h3 align="center"><i>"If I have seen a little further it is by standing on the shoulders of Giants"<i></h3>
+<h3 align="center"><i>"If I have seen a little further, it is by standing on the shoulders of Giants"<i></h3>
 
 ## [![Al's header](https://github.com/alxayeed/alxayeed/blob/master/albanner.png)]()
 
@@ -49,7 +49,7 @@
   <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
  
 
-![Al's Github Stats](https://github-readme-stats.vercel.app/api?username=alxayeed&count_private=true&show_icons=true&theme=radical&card_width=800)
+![Al's Github Stats](https://github-readme-stats.vercel.app/api?username=alxayeed&count_private=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxayeed&layout=compact)
 
 <!--
