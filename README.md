@@ -1,4 +1,5 @@
-[![linkedin badge](https://komarev.com/ghpvc/?username=alxayeed&label=Profile%20views&color=0e75b6&style=flat)]()
+[![profileview badge](https://komarev.com/ghpvc/?username=alxayeed&label=Profile%20views&color=0e75b6&style=flat)]()
+[![gmail badge](https://img.shields.io/badge/Al%20Xayeed-30302f?style=flat&logo=gmail)](mailto:alxayeed@gmail.com)
 [![linkedin badge](https://img.shields.io/badge/Abdullah%20Al%20Sayeed-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/alxayeed/)
 [![medium badge](https://img.shields.io/badge/Al%20Xayeed-30302f?style=flat&logo=medium)](https://medium.com/@alxayeed)
 [![hackerrank badge](https://img.shields.io/badge/Abdullah%20Al%20Sayeed-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/alxayeed)
@@ -7,6 +8,7 @@
 
 
 <h3 align="center"><i>"If I have seen a little further, it is by standing on the shoulders of Giants"<i></h3>
+ <!--![image](https://github.com/alxayeed/alxayeed/blob/master/Hi.gif)-->
 
 ## [![Al's header](https://github.com/alxayeed/alxayeed/blob/master/albanner.png)]()
 
@@ -61,23 +63,7 @@
 ![Al's Github Stats](https://github-readme-stats.vercel.app/api?username=alxayeed&count_private=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxayeed&layout=compact)
 
-<!--
-[![linkedin badge](https://img.shields.io/badge/Abdullah%20Al%20Sayeed-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/alxayeed/)
-[![medium badge](https://img.shields.io/badge/Al%20Xayeed-30302f?style=flat&logo=medium)](https://medium.com/@alxayeed)
-[![twitter badge](https://img.shields.io/badge/@Al%20Xayeed-30302f?style=flat&logo=twitter)](https://twitter.com/AlXayeed0)
--->
-<!--
-## [![Al's header](https://github.com/alxayeed/alxayeed/blob/master/albanner.png)]()
--->
 
-
-<!--![image](https://github.com/alxayeed/alxayeed/blob/master/Hi.gif)-->
-
-<!--
-![Al's Github Stats](https://github-readme-stats.vercel.app/api?username=alxayeed&count_private=true&show_icons=true&theme=gradient&card_width=800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxayeed&card_width=495) <br>
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@alxayeed) <br>
--->
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@alxayeed)
 
 
