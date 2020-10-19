@@ -1,4 +1,4 @@
-[![profileview badge](https://komarev.com/ghpvc/?username=alxayeed&label=Profile%20views&color=0e75b6&style=flat)]()
+[![profile view](https://komarev.com/ghpvc/?username=alxayeed&label=Profile%20views&color=0e75b6&style=flat)]()
 [![gmail badge](https://img.shields.io/badge/Al%20Xayeed-30302f?style=flat&logo=gmail)](mailto:alxayeed@gmail.com)
 [![linkedin badge](https://img.shields.io/badge/Abdullah%20Al%20Sayeed-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/alxayeed/)
 [![medium badge](https://img.shields.io/badge/Al%20Xayeed-30302f?style=flat&logo=medium)](https://medium.com/@alxayeed)
@@ -61,13 +61,15 @@
  
 
 ![Al's Github Stats](https://github-readme-stats.vercel.app/api?username=alxayeed&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxayeed&layout=compact)
 
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@alxayeed)
+
 
 
 <!--
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@alxayeed)
 I am Al Xayeed,you can call me Al  🤝<br>
 I am a CSE graduate, trying my best to be better than yesterday.<br>
 I don't just want to be developer,I Want to be an ***Engineer!***
