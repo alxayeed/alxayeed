@@ -7,7 +7,7 @@
 
 
 
-<h3 align="center"><i>"No special talents, Only passionately Curious"<i></h3>
+<h2 align="center"><b><i>"No special talents, Only passionately Curious"<i><b></h2>
 
 ## [![Al's header](https://github.com/alxayeed/alxayeed/blob/master/albanner.png)]()
 
