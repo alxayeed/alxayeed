@@ -7,32 +7,15 @@
 
 
 
-<h3 align="center"><i>"If I have seen a little further, it is by standing on the shoulders of Giants"<i></h3>
- <!--![image](https://github.com/alxayeed/alxayeed/blob/master/Hi.gif)-->
+<h3 align="center"><i>"No special talents, Only passionately Curious"<i></h3>
 
 ## [![Al's header](https://github.com/alxayeed/alxayeed/blob/master/albanner.png)]()
 
 
 
-
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alxayeed" alt="alxayeed" /></a> </p> -->
-
-<!--### Blogs posts-->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<!--
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/alxayeed0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alxayeed0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alxayeed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alxayeed" height="30" width="40" /></a>
-<a href="https://fb.com/alxayeed0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="alxayeed0" height="30" width="40" /></a>
-<a href="https://medium.com/@alxayeed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@alxayeed" height="30" width="40" /></a>
-</p>
--->
-
 <h3 align="left">Stacks and Interests:</h3>
-<p align="left">                                             
+<p align="left">
+ <div padding="5">
  <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="80" height="80"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="80" height="80"/> </a> 
@@ -54,13 +37,7 @@
  <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="80" height="80"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="bash" width="80" height="80"/> </a> 
    <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/> </a> 
-
- 
-   <!--
-   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
--->
+ </div>
  
 
 ![Al's Github Stats](https://github-readme-stats.vercel.app/api?username=alxayeed&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
@@ -73,9 +50,6 @@
 
 <!--
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@alxayeed)
-I am Al Xayeed,you can call me Al  🤝<br>
-I am a CSE graduate, trying my best to be better than yesterday.<br>
-I don't just want to be developer,I Want to be an ***Engineer!***
 -->
 
 
