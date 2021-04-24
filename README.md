@@ -18,11 +18,11 @@
  <div padding="5">
  <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="80" height="80"/> </a>
+   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="80" height="80"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="80" height="80"/> </a> 
  <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="80" height="80"/> </a>
   <a href="https://jquery.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="80" height="80"/> </a> 
  <a href="https://www.w3schools.com/nodejs/nodejs_intro.asp" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> </a> 
- <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/> </a> 
  <a href="https://redis.io" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="80" height="80"/> </a>
  <a href="https://www.tutorialspoint.com/mongodb/mongodb_overview.htm" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="80" height="80"/> </a> 
