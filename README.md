@@ -37,7 +37,9 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="bash" width="80" height="80"/> </a>  -->
 <!--    <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/> </a>  -->
  </div>
+ <br>
  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alxayeed&theme=dark)](https://git.io/streak-stats)
 
 ![Al's Github Stats](https://github-readme-stats.vercel.app/api?username=alxayeed&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
